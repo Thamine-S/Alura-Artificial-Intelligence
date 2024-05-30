@@ -35,16 +35,16 @@ Esta aula serviu como guia introdutório para a utilização da plataforma de ut
 ![aula4](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/a2300ae1-3fc0-4bc8-9a5c-6d1e0b10523b)
 <br>
 <B>Criando seu próprio chatbot com a Gemini API no Google Colab.</b> <BR>
-Nesta aula, por meio da utilização do Google Colab, foi possível a criação de um [Chatbot](https://github.com/Thamine-sumaya/Alura-Artificial-Intelligence/blob/main/Criando_meu_primeiro_Chatbot.ipynb) utilizando a linguagem de programação Python, e a API [GenerativeIA](https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/overview?hl=pt-br).
+Nesta aula, por meio da utilização do Google Colab, foi possível a criação de um [Chatbot](https://github.com/Thamine-S/Alura-Artificial-Intelligence/blob/main/Criando_meu_primeiro_Chatbot.ipynb) utilizando a linguagem de programação Python, e a API [GenerativeIA](https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/overview?hl=pt-br).
 
 ![aula5](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/0a28dbc0-fc49-481a-b6b4-3088732ee830)
 <br>
 <b>Criando um sistema para busca em documentos usando embeddings e a Gemini API.</b> <BR>
-Essa aula explora a compreensão do que são "[embends](https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br)" por meio da prática, abordando desda [geração de embends](https://github.com/Thamine-sumaya/Alura-Artificial-Intelligence/blob/main/Explorando_a_utilização_de_Embends.ipynb) até a criação de funções capazes de identificar o melhor resultado dentro das opções apresentadas, utilizando as bibliotecas Pandas e Numpy.
-![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
+Essa aula explora a compreensão do que são "[embends](https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br)" por meio da prática, abordando desda [geração de embends](https://github.com/Thamine-S/Alura-Artificial-Intelligence/blob/main/Explorando_a_utilização_de_Embends.ipynb) até a criação de funções capazes de identificar o melhor resultado dentro das opções apresentadas, utilizando as bibliotecas Pandas e Numpy.
+![divisor](https://github.com/Thamine-S/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
 ![Projeto](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/8837c2da-13b0-46ec-8f04-d0f6d3e262ec)
-  [![Projeto Competição](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-sumaya&repo=Projeto-Alura-Chatbot&border_color=3EE3A4&bg_color=0D1117&title_color=ffffff&text_color=128DAA&icon_color=9EFF01)](https://github.com/Thamine-sumaya/Projeto-Alura-Chatbot) 
+  [![Projeto Competição](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-S&repo=Projeto-Alura-Chatbot&border_color=3EE3A4&bg_color=0D1117&title_color=ffffff&text_color=128DAA&icon_color=9EFF01)](https://github.com/Thamine-S/Projeto-Alura-Chatbot) 
   
 ![divisor](https://github.com/Thamine-sumaya/Alura-Intelig-ncia-Artificial/assets/160533319/75af3c81-6878-4676-b8e2-2c5e188ebc55)
 
